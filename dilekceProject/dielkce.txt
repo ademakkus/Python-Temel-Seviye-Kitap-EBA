@@ -1,0 +1,19 @@
+
+                                                                                                   tarih: tarih:12/12/2021
+T.C.
+üniversite adý:gazi ÜNÝVERSÝTESÝ
+fakülte adý:teknik eðitim Fakültesi Dekanlýðýna
+Fakülteniz bölüm adý:bilgisayar Bölümü öðrenci no. :123456 numaralý öðrencisiyim. Ekte sunduðum belgede belirtilen mazeretim gereðince   öðretim yýlý:2021  Eðitim-Öðretim Yýlý yarýyýl:Güz  yarýyýlýnda
+ öðrenime ara izni (kayýt dondurma) istiyorum.
+
+Gereðini bilgilerinize arz ederim.
+imza
+Öðrenci Bilgileri
+-----------------
+Ad              :öðrencinin adý:Adem
+Soyad           :öðrencinin soyadý:AKKUÞ
+TC Kimlik No    :TC Kimlik no. :12345
+Adres           :adres:Yenimahalle
+Telefon         :telefon:234567
+Ekler           :ekler:ek yok
+
